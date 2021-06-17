@@ -16,7 +16,6 @@ dateCreated: 2021-06-03T07:10:10.956Z
 
 > https://www.edx.org/course/computer-hardware-and-operating-systems
 > https://www.classcentral.com/course/udacity-introduction-to-operating-systems-3419
-> 
 {.is-info}
 
 ![operating_systems.png](/engg/operating_systems.png)
