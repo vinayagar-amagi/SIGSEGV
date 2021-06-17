@@ -19,7 +19,7 @@ dateCreated: 2021-06-03T07:10:10.956Z
 > 
 {.is-info}
 
-![operating_systems.png](/engg/operating_systems.png)
+![operating_systems.png](operating_systems.png)
 
 #### Unix survival skills:
 
@@ -27,9 +27,9 @@ dateCreated: 2021-06-03T07:10:10.956Z
 > https://www.udemy.com/course/advance-unix-file-processing/
 {.is-info}
 
-![cautionary.png](/engg/cautionary.png)
+![cautionary.png](cautionary.png)
 
-![incident.png](/engg/incident.png)
+![incident.png](incident.png)
 
 ## NEXT
 
@@ -45,7 +45,7 @@ dateCreated: 2021-06-03T07:10:10.956Z
 > https://www.classcentral.com/course/udacity-advanced-operating-systems-1016 (Lesson#6 & #8 can be left if you can't follow them, as they're not immediately relevant for what we do).
 > 
 
-![containers.png](/engg/containers.png)
+![containers.png](containers.png)
 
 
 ## LATER
@@ -55,9 +55,9 @@ dateCreated: 2021-06-03T07:10:10.956Z
 >  2. Next level SQL (optional):
 > https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
 
-![query.png](/engg/query.png)
+![query.png](query.png)
 
-![tech_loops.png](/engg/tech_loops.png)
+![tech_loops.png](tech_loops.png)
 
 # Books
 
@@ -99,9 +99,9 @@ Scalable Network Programming (The Quest For A Good Web Server)
 {.is-success}
 
 
-![software_development.png](/engg/software_development.png)
+![software_development.png](software_development.png)
 
-![isolation_2x.png](/engg/isolation_2x.png)
+![isolation_2x.png](isolation_2x.png)
 
 
 # Credits
