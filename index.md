@@ -6,5 +6,5 @@ This signal is generated when a human tries to read or write outside the memory 
 
 Welcome to this website where we share a few things that is otherwise also freely available in the world wide web. There is no breakthroguh innovation, cutting edge inventions or revolutions that can bring tectonic shift, instead a few links to long reads, videos with less spatial and temporal changes. 
 
-And it starts [here](https://github.com/amagimedia/SIGSEGV/blob/gh-pages/rookie/guide.md)!!!
+And it starts [here](rookie/guide.md)!!!
 
