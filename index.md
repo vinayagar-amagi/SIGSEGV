@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# SIGSEGV
 
-You can use the [editor on GitHub](https://github.com/amagimedia/SIGSEGV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This signal is generated when a human tries to read or write outside the memory that is allocated for him or her, or to write memory that can only be read. (Actually, the signals only occur when the human goes far enough outside to be detected by the human’s memory protection mechanism.) The name is an abbreviation for “segmentation violation”. (This text adapted from the classic explanation about "segmentation violation" available here - https://www.gnu.org/software/libc/manual/html_node/Program-Error-Signals.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amagimedia/SIGSEGV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Welcome to this website where we share a few things that is otherwise also freely available in the world wide web. There is no breakthroguh innovation, cutting edge inventions or revolutions that can bring tectonic shift, instead a few links to long reads, videos with less spatial and temporal changes. 
